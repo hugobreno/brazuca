@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title="TV ABERTA (NEW!)", Band PR HD
+http://sintonizarhost.com.br:8081/TarobaCascavelDVR/TarobaCascavelDVR/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title="TV ABERTA (NEW!)", Band RS
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/playlist.m3u8?ChannelsON
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title="TV ABERTA (NEW!)", Panico na Band (Ao Vivo)
+http://evp.mm.uol.com.br:1935/band/panico/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title="TV ABERTA (NEW!)", CQC (Ao Vivo)
+http://evp.mm.uol.com.br:1935/band/cqc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title="TV ABERTA (NEW!)", Brasil Urgente (Ao Vivo)
+http://evp.mm.uol.com.br:1935/band/brasilurgente/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_globo_br.png" group-title="TV ABERTA (NEW!)", Globo SP
+http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?wowzasessionid=291773276
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_globo_br.png" group-title="TV ABERTA (NEW!)", Globo HD
+http://177.129.15.4:5000/live/globohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_globo_br.png" group-title="TV ABERTA (NEW!)", Globo RJ
+http://37.203.209.34:443/mobile/bob15sd/ChannelsON.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="TV ABERTA (NEW!)", Record HD
+http://177.129.15.4:5000/live/recordhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="TV ABERTA (NEW!)", Record RJ
+http://37.203.209.34:443/mobile/flash18/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="TV ABERTA (NEW!)", Record ES HD
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/Anderson_Elias.m3u8
+   
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="TV ABERTA (NEW!)", Record PB
+http://174.37.99.198:1935/dvrid1816/1816/DVR_b125000_850070613_qRFZS.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="TV ABERTA (NEW!)", Record PE
+http://rtmp.cdn.upx.net.br:1935/00161/myStream.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="TV ABERTA (NEW!)", Record PR
+rtmp://69.46.0.170:1935/ricpr/ playpath=ric.sdp  swfUrl=https://ssl.p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=https://caikron.com.br/iCaikron/3v/player/video/index.php?id=14&servidor=69.46.0.170:1935
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="TV ABERTA (NEW!)", Record MT
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="TV ABERTA (NEW!)", Record RO
+http://cast2.player.tv.br:1935/8126/8126/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_record_br.png" group-title="TV ABERTA (NEW!)", A Fazenda 24Hrs
+http://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls_1@379189/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sbt_nacional.png" group-title="TV ABERTA (NEW!)", SBT HD
+http://177.129.15.4:5000/live/vtvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sbt_nacional.png" group-title="TV ABERTA (NEW!)", SBT PI HD
+http://192.99.46.182:1935/pioneira-tv/pioneira-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sbt_nacional.png" group-title="TV ABERTA (NEW!)", SBT SP
+http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sbt_nacional.png" group-title="TV ABERTA (NEW!)", SBT RJ
+http://iphone-streaming.ustream.tv:80/uhls/13654224/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sbt_nacional.png" group-title="TV ABERTA (NEW!)", SBT BA
+rtmp://stream.tvpapodetudo.com.br/aratuduZgOqNa/myStream.sdp
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br_nacional.png" group-title="TV ABERTA (NEW!)", Rede TV HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br_nacional.png" group-title="TV ABERTA (NEW!)", Rede TV PB
+http://iphone-streaming.ustream.tv:80/uhls/18388615/streams/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rede_tv_br_nacional.png" group-title="TV ABERTA (NEW!)", Rede TV PB (Opcao2)
+http://mediacp.ciclanohost.com.br:1935/8064/8064/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://orpas.com.br/waUpload/tvcultura01423082013150108.jpeg" group-title="TV ABERTA (NEW!)", TV Cultura HD
+rtmp://200.136.27.12/livepkgr/tvcultura4
+
+#EXTINF:-1 tvg-logo="https://blogdotarso.files.wordpress.com/2013/10/e-parana.jpg" group-title="TV ABERTA (NEW!)", TVE Parana
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/570673533542354944/yasxFchU.png" group-title="TV ABERTA (NEW!)", TVE Bahia HD
+rtmp://stream2.ba.gov.br/livepkgr//pgm-1?adbe-live-event=irdeb
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-vY5ZZXndIW0/AAAAAAAAAAI/AAAAAAAAAAA/bR9gqkvNaYA/s900-c-k-no/photo.jpg" group-title="TV ABERTA (NEW!)", TV Brasil
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-v9StaGPMpoc/AAAAAAAAAAI/AAAAAAAAAAA/pMgvkiSak5g/s100-c-k-no/photo.jpg" group-title="TV ABERTA (NEW!)", TV Brasil Central
+rtmp://rsync.com.br:1935/rsync00026/ playpath=rsync.sdp  swfUrl=http://rsync.com.br/player/jwplayer/player.swf?IPTVGLOBAL pageUrl=http://rsync.com.br/player/frame_streaming.php?WW=400&HH=300&path=rtmp://rsync.com.br:1935/rsync00026/
